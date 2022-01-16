@@ -13,5 +13,5 @@ class ItemAdmin(admin.ModelAdmin):
 
 
 @admin.register(models.Photo)
-class PhotoAdmini(admin.ModelAdmin):
+class PhotoAdmin(admin.ModelAdmin):
     pass
